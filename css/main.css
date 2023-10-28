@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+.logo{
+    margin-left: 150px;
+    float: left;
+    width: 170px;
+}
+  a{
+    text-decoration: none;
+ }
+svg{
+    height: 50px;
+    width: 50px;
+}
+
+.logo h3{
+    float: right;
+    text-align: left;
+    overflow: hidden;
+
+    
+}
+.nav{
+    padding-left: 200px; 
+    overflow: hidden;
+}
+li{
+    padding-left: 30px;
+    float: left;
+}
+ul{
+    list-style: none;
+}
+.navbar{
+    margin-top: 20px;
+}
+.login{
+   margin-right: 200px;
+    float:right;
+}
+
+.box{
+    margin: 20px;
+    float: left;
+    width: 30%;
+    
+   
+
+}
+img{
+    width: 100%;
+}
+.boxis{
+
+width: 100%;
+height: 1000px;
+text-align: center;
+}
+
+.box3{
+    margin-left: 220px;
+}
+.title{
+    margin-top: 80px;
+    text-align: center;
+}
+.box1{
+    margin-left: 200px;
+}
